@@ -1,0 +1,21 @@
+{
+    "name": "goolou",
+    "displayName": "Goolou",
+    "description": "just rounded theme for vscode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Goolou",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Goolou-color-theme.json"
+            }
+        ]
+    }
+}
