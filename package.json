@@ -1,11 +1,23 @@
 {
     "name": "goolou",
     "displayName": "Goolou",
-    "description": "just rounded theme for vscode",
-    "version": "0.0.1",
+    "description": "Dark theme for vscode that you will love",
+    "version": "1.0.0",
+    "publisher": "Sandip124",
     "engines": {
         "vscode": "^1.59.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Sandip124/goolou"
+    },
+    "keywords": [
+        "dark theme",
+        "sandip124",
+        "sandip124 dark theme",
+        "goolou theme",
+        "goolou"
+    ],
     "categories": [
         "Themes"
     ],
