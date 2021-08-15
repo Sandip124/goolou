@@ -3,7 +3,7 @@
     "displayName": "Goolou",
     "description": "Dark theme for vscode that you will love",
     "version": "1.0.0",
-    "publisher": "Sandip124",
+    "publisher": "sndp124",
     "engines": {
         "vscode": "^1.59.0"
     },
