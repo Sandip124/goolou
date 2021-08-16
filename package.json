@@ -2,7 +2,7 @@
     "name": "goolou",
     "displayName": "Goolou",
     "description": "Dark theme for vscode that you will love",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "publisher": "sndp124",
     "engines": {
         "vscode": "^1.59.0"
