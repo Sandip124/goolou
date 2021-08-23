@@ -1,3 +1,5 @@
+
+![Goolou Logo](icon_small.png)
 # Goolou Dark Theme
 
  Goolou Dark theme is created using handpicked  colors from [ColorHunt](colorhunt.co) 
